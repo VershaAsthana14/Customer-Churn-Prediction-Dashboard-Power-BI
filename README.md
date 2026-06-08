@@ -7,17 +7,22 @@ Customer retention is one of the most critical factors for business growth. Acqu
 The Customer Churn Prediction Dashboard was developed in Power BI using advanced DAX calculations, interactive visualizations, and scenario analysis to help businesses make data-driven retention decisions.
 
 ---
-
+- Dashboard Executive Summary-
 ![Dashboard Executive Summary](Executive_summary.png)
 
+- Dashboard Customer Analysis-
 ![Dashboard Customer Analysis](Customer_Analysis.png)
 
+- Dashboard Customer Segmentation-
 ![Dashboard Customer_Segmentation](Customer_Segmentation.png)
 
+- Dashboard Risk Analysis-
 ![Dashboard Risk_Analysis](Risk_Analysis.png)
 
+- Dashboard Scenario Analysis-
 ![Dashboard Scenario_Analysis](Scenario_Analysis.png)
 
+- Dashboard Service Analysis-
 ![Dashboard Service Analysis](Service_Analysis.png)
 
 ## Business Problem
