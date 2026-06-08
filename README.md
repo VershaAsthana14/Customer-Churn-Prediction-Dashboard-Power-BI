@@ -127,13 +127,26 @@ This dashboard helps organizations:
 
 ### Revenue Impact
 
-![Revenue Impact](images/revenue_impact.png)
+![Revenue Impact](C:\Users\Khushboo\Documents\ACE\POWER BI\Power BI Course\Projects.png)
 
 ### Scenario Analysis
 
 ![Scenario Analysis](images/scenario_analysis.png)
 
 ---
+
+Connect and collaborate for data-driven business solutions.
+
+Versha A
+Power BI Developer | Data Analyst | MIS Reporting Specialist
+
+Open to Freelance Opportunities in:
+
+Power BI Development
+Dashboard Design
+Data Analysis
+Excel Automation
+Business Intelligence Solutions
 
 Connect and collaborate for data-driven business solutions.
 
