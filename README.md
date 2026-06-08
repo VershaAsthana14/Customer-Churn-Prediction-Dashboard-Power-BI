@@ -7,10 +7,19 @@ Customer retention is one of the most critical factors for business growth. Acqu
 The Customer Churn Prediction Dashboard was developed in Power BI using advanced DAX calculations, interactive visualizations, and scenario analysis to help businesses make data-driven retention decisions.
 
 ---
-##Dashbaord Overview - Executive Summary 
-![dashboard](https://github.com/user-attachments/assets/xxxxxxxx)
 
-![Dashboard Screenshot](Executive_summary.png)
+![Dashboard Executive Summary](Executive_summary.png)
+
+![Dashboard Customer Analysis](Customer_Analysis.png)
+
+![Dashboard Customer_Segmentation](Customer_Segmentation.png)
+
+![Dashboard Risk_Analysis](Risk_Analysispng)
+
+![Dashboard Scenario_Analysis](Scenario_Analysis.png)
+
+![Dashboard Service Analysis](Service Analysis.png)
+
 ## Business Problem
 
 Customer churn directly impacts revenue and profitability. Organizations need to:
@@ -112,28 +121,6 @@ This dashboard helps organizations:
 * Automated Retention Recommendations
 * Predictive Analytics Integration
 * Real-Time Data Refresh
-
----
-
-## Dashboard Preview
-
-(Add screenshots of your dashboard here)
-
-### Executive Summary
-
-![Executive Summary](images/executive_summary.png)
-
-### Customer Analysis
-
-![Customer Analysis](images/customer_analysis.png)
-
-### Revenue Impact
-
-![Revenue Impact](C:\Users\Khushboo\Documents\ACE\POWER BI\Power BI Course\Projects.png)
-
-### Scenario Analysis
-
-![Scenario Analysis](images/scenario_analysis.png)
 
 ---
 
