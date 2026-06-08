@@ -14,7 +14,7 @@ The Customer Churn Prediction Dashboard was developed in Power BI using advanced
 
 ![Dashboard Customer_Segmentation](Customer_Segmentation.png)
 
-![Dashboard Risk_Analysis](Risk_Analysispng)
+![Dashboard Risk_Analysis](Risk_Analysis.png)
 
 ![Dashboard Scenario_Analysis](Scenario_Analysis.png)
 
